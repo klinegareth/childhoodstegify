@@ -17,18 +17,15 @@ I added clipart to some of the other childhood photos my mom had sent me. KCSF's
 | <img alt="A screenshot of a menu for adding clipart to an image" src="./readme-pics/clipart.png" height="300"/> | <img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./src/everything.jpeg" height="300"/> | <img alt="Young boy in a cowboy costume pointing a toy revolver at the camera. Random clip art comes out of the toy gun, and clip art witches fly around the picture." src="./src/gunslinger.jpeg" height="300"/> |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## sounds
-
-i made a little soundscape from [Celeste](https://www.celestegame.com/) samples and a [video](https://www.youtube.com/watch?v=y59hM2c7s4I) I made when I was 10.
-
 ## encode/decode
 
 <sub>(the fun part!)</sub>
 
-I hid the soundscape in the pictures I made using [steganography](https://en.wikipedia.org/wiki/steganography).
+I made a little soundscape from [Celeste](https://www.celestegame.com/) samples and a [video](https://www.youtube.com/watch?v=y59hM2c7s4I) I made when I was 10 and hid it
+in the photos using [steganography](https://en.wikipedia.org/wiki/steganography).
 
-| Original                                                                                                                                                                                                          | Stegified                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Original                                                                                                                                                                                                          | Stegified                                                                                                                                                                                                              |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./src/everything.jpeg" height="300"/>             | <img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./everythinghidden.jpeg" height="300" align="center"/> |
 | <img alt="Young boy in a cowboy costume pointing a toy revolver at the camera. Random clip art comes out of the toy gun, and clip art witches fly around the picture." src="./src/gunslinger.jpeg" height="300"/> | <img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./gunslingerhidden.jpeg" height="300" align="center"/> |
 
