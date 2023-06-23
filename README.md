@@ -12,12 +12,11 @@ After some digging, I found the software I was using in the photo: Kids Cam Stic
 
 ## pictures
 
-<img alt="A screenshot of a menu for adding clipart to an image" src="./readme-pics/clipart.png" height="200" align="right"/>
 
 I added clipart to some of the other childhood photos my mom had sent me. KCSF's clipart feature splits images up into categories with significant overlap (should a picture of a family watching TV be put in 'Together' or 'People' or 'Entertainment'?), so quickly finding stickers I wanted to use wasn't really possible. The process felt meditative.
 
-|<img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./src/everything.jpeg" height="300"/>|<img alt="Young boy in a cowboy costume pointing a toy revolver at the camera. Random clip art comes out of the toy gun, and clip art witches fly around the picture." src="./src/gunslinger.jpeg" height="300"/>|
-|---|---|
+|<img alt="A screenshot of a menu for adding clipart to an image" src="./readme-pics/clipart.png" height="200" align="right"/>|<img alt="A childrens' choir in a church, everything in covered in clip art, and all but one of the childrens' faces are covered by clip art of a person." src="./src/everything.jpeg" height="300"/> | <img alt="Young boy in a cowboy costume pointing a toy revolver at the camera. Random clip art comes out of the toy gun, and clip art witches fly around the picture." src="./src/gunslinger.jpeg" height="300"/> |
+| _|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## sounds
 
