@@ -34,4 +34,4 @@ stegify decode --carriers 'everythinghidden.jpeg gunslingerhidden.jpeg' --result
 open childhood.mp3
 ```
 
-If `stegify` isn't available on your system, the audio is up on my (website)[https://klinegareth.com/childhood.mp3].
+If `stegify` isn't available on your system, the audio is up on my [website](https://klinegareth.com/childhood.mp3).
