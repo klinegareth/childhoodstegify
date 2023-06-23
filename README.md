@@ -12,7 +12,7 @@ After some digging, I found the software I was using in the photo: Kids Cam Stic
 
 ## pictures
 
-<img alt="A screenshot of a menu for adding clipart to an image" src="./readme-pics/clipart.png" height="200" />
+<img alt="A screenshot of a menu for adding clipart to an image" src="./readme-pics/clipart.png" height="200" align="right"/>
 
 I added clipart to some of the other childhood photos my mom had sent me. KCSF's clipart feature splits images up into categories with significant overlap (should a picture of a family watching TV be put in 'Together' or 'People' or 'Entertainment'?), so quickly finding stickers I wanted to use wasn't really possible. The process felt meditative.
 
